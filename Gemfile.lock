@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    gearman-ruby (3.0.7)
+    redis (3.0.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  gearman-ruby
+  redis
