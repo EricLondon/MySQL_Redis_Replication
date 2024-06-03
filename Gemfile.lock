@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     connection_pool (2.4.1)
-    gearman-ruby (3.0.7)
+    gearman-ruby (4.0.5)
     redis (5.2.0)
       redis-client (>= 0.22.0)
     redis-client (0.22.2)
